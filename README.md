@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohitsinghnaruka , pursuing my Undergrad In ECE at VNIT NAGPUR
+- 👋 Hi, I’m @rohitsinghnaruka , pursuing my Undergrad at V'NIT NAGPUR
 - 👀 I’m Skilled in DevOps & Deep Learning
 - 🌱 Currently Contributing To Open Source & Deep Diving in Advanced Topics in Devops like MLOps and More.
 - 💞️ I’m looking to collaborate on projects related to above Fields.
