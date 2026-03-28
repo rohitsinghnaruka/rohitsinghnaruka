@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohitsinghnaruka , pursuing my Undergrad at V'NIT NAGPUR
-- 👀 I’m Skilled in DevOps & Deep Learning
+- 👀 I’m Skilled in Backend davelopment & Deep Learning
 - 🌱 Currently Contributing To Open Source & Deep Diving in Advanced Topics in Devops like MLOps and More.
 - 💞️ I’m looking to collaborate on projects related to above Fields.
 - 📫 E-mail : rohitnaruka6852@gmail.com Or  LinkedIn : www.linkedin.com/in/rohitsingh1206
